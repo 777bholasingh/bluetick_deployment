@@ -1,0 +1,34 @@
+.hero-section {
+   
+    margin-top: 6px;
+
+}
+.hero-content{
+    width:100%;
+    margin:2px; 
+}
+.hero-content h2 {
+
+    margin-bottom: 10px;
+}
+.hero-content p {
+    font-size: 15px;
+    color:rgb(12 5 5);
+    margin-bottom: 20px;
+    line-height: 1.3;
+    font-family: Arial, sans-serif;
+    
+}
+ /* stylling on button in hero section */
+.hero-button {
+    display: inline-block;
+    padding: 15px 30px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: 1s;
+}
+.hero-button:hover {
+    background-color: #0056b3;
+}

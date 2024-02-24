@@ -1,0 +1,35 @@
+.contact-container {
+ 
+    margin: 2px ;
+    width: 100%;
+}
+.contact-item{
+    margin: 2px;
+}
+.contact-item p {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.4;
+    font-family: Arial, sans-serif;
+    margin-bottom: 15px;
+    
+}
+.contact-item h3 {
+   color: #091cec;
+    
+}
+span{
+    color:red;
+}
+.button {
+    background-color: #1e1e2c;
+    color: white;
+    border-radius: 8px;
+    margin-top: 20px;
+    padding: 10px;
+  }
+  
+  .button:hover {
+    background-color: #091cec;
+    color: white;
+  }

@@ -1,0 +1,37 @@
+.blog-section {
+    /* background-color: #f9f9f9; */
+    margin-top: 10px;
+    margin-bottom: 5px;
+    /* text-align: center; */
+}
+.blog-container {
+    /* max-width: 800px; */
+    margin: 2px ;
+    width: 100%;
+}
+.blog-item {
+    margin-bottom: 35px;
+}
+.blog-item h3{
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+.blog-item h5 {
+    font-size: 20px;
+    color: #666;
+    
+   
+} 
+.blog-item p {
+    font-size: 16px;
+    color:rgb(12 5 5);
+    line-height: 1.4;
+    font-family: Arial, sans-serif;
+    margin-bottom: 3px;
+    
+}
+
+.redirect{
+    font-size: 30px;
+    margin-top: -2px;
+}
